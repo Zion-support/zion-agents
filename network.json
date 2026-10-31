@@ -61,11 +61,11 @@
   ],
   "plans": {
     "discovery": {
-      "usd": "https://buy.stripe.com/8x214o8NW35l5Xp3hm4ZG0b",
-      "brl": "https://buy.stripe.com/9B69AU8NW5dt71t8BG4ZG09",
-      "price": "$99 / R$99",
-      "name": "Discovery",
-      "items": "One process \u00b7 report \u00b7 30-min session"
+      "usd": "https://ziontechgroup.com/discovery/",
+      "brl": "https://ziontechgroup.com/pt/discovery/",
+      "price": "Free",
+      "name": "Free Discovery",
+      "items": "8 questions \u00b7 immediate on-page report \u00b7 no required meeting"
     },
     "consulting": {
       "usd": "https://buy.stripe.com/4gM14ofck0Xd1H94lq4ZG08",
